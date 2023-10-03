@@ -1,5 +1,7 @@
 # MR-DEVIL
-One And Only Tools,
+I AM ADDED ALL OPTIONS ON THIS TOOLS
+THIS TOOLS IS FREE - SO JUST 
+    ENJOY
 ```
 apt update
 apt upgrade
